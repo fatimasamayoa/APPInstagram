@@ -17,6 +17,8 @@ namespace APPInstagram
             //ESTA ES UNA PRUEBA
             InitializeComponent();
             ESTO HAY QUE BORRARLO PORQUE VA A DAR ERROR
+
+                //PRUEBA DE COMENTARIO NO.2
         }
 
     }
