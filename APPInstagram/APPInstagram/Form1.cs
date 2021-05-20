@@ -14,7 +14,9 @@ namespace APPInstagram
     {
         public Form1()
         {
+            //ESTA ES UNA PRUEBA
             InitializeComponent();
+            ESTO HAY QUE BORRARLO PORQUE VA A DAR ERROR
         }
 
     }
